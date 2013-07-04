@@ -1,0 +1,25 @@
+{
+    "name": "inodata/flotr2-bundle",
+    "type": "symfony-bundle",
+    "description": "Chart generator bundle using Flotr2 integrated with Symfony2",
+    "keywords": ["chart", "bundle", "graph"],
+    "homepage": "http://github.com/inodata/Flotr2Bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Enrique García",
+            "email": "enrique@inodata.com.mx"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "require-dev": {
+        "symfony/framework-bundle": ">=2.1,<2.2-dev"
+    },
+    "autoload": {
+        "psr-0": { "Inodata\\Flotr2Bundle": "" }
+    },
+    "minimum-stability": "dev",
+    "target-dir": "Inodata/Flotr2Bundle"
+}

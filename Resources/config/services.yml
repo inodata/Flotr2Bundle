@@ -1,0 +1,7 @@
+parameters:
+#    inodata_flotr2.example.class: Inodata\Flotr2Bundle\Example
+
+services:
+#    inodata_flotr2.example:
+#        class: %inodata_flotr2.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
